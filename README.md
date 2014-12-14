@@ -2,7 +2,8 @@
 
 A simple floating action button for iOS.
 
-Tries to mimic the FAB on Android L
+Tries to mimic the FAB on Android Lollipop
+http://www.google.com/design/spec/components/buttons.html#buttons-floating-action-button
 
 On clicking the FAB the menu buttons show up.
 
@@ -10,7 +11,7 @@ This was put together over the course of a few hours.
 Not much is customizable right now and I intend to improve the API as I go along.
 
 ## Screenshots
-![Example](http://i.imgur.com/uN75tvT.gif)
+![Example](http://i.imgur.com/5txwINz.gif)
 
 
 ## Installation
