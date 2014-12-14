@@ -10,7 +10,7 @@ This was put together over the course of a few hours.
 Not much is customizable right now and I intend to improve the API as I go along.
 
 ## Screenshots
-![Example](http://i.imgur.com/uN75tvT.gif)
+![Example](http://i.imgur.com/5txwINz.gif)
 
 
 ## Installation
